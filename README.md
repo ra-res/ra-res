@@ -1,4 +1,4 @@
-### Hi there 👋
+### Watch my contribution graph get eaten by a snake :snake:
 
 ![snake gif](https://github.com/ra-res/ra-res/blob/output/github-contribution-grid-snake.gif)
 
