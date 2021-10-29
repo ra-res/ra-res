@@ -4,8 +4,12 @@ const rares = {
         primary: [JavaScript, TypeScript, Java],
         fluent: [Python, C++]
     },
-    web: [React, Gatsby, Node, StyledComponents, Tailwind],
-    other: [Linux, Git, Photoshop]
+    web: {
+        frontEnd: [React, Gatsby, Scss, Tailwind, StyledComponents],
+        backEnd: [Node, Express]
+    },
+    other: [Linux, Git, Vim, Photoshop],
+    currentFocus: 'Front-end development'
 }
 ```
 
