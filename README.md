@@ -1,3 +1,14 @@
+```javascript
+const rares = {
+    programming: {
+        primary: [JavaScript, TypeScript, Java],
+        fluent: [Python, C++]
+    },
+    web: [React, Gatsby, Node, StyledComponents, Tailwind],
+    other: [Linux, Git, Photoshop]
+}
+```
+
 ### Watch my contribution graph get eaten by a snake :snake:
 
 ![snake gif](https://github.com/ra-res/ra-res/blob/output/github-contribution-grid-snake.gif)
