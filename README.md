@@ -9,7 +9,7 @@ const rares = {
 }
 ```
 
-![snake gif](https://github.com/ra-res/ra-res/blob/output/github-contribution-grid-snake.gif)
+<!-- ![snake gif](https://github.com/ra-res/ra-res/blob/output/github-contribution-grid-snake.gif) -->
 
 <!--
 **ra-res/ra-res** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
