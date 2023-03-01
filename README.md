@@ -1,11 +1,14 @@
 ```javascript
-const rares = {
-    programming: {
-        primary: [JavaScript, TypeScript, Java],
-        fluent: [Python, C++]
-    },
-    web: [React, Gatsby, Scss, Tailwind, StyledComponents, jQuery],
-    other: [Linux, Git, Photoshop]
+function fizzbuzz(n) {
+  for (let i = 1; i <= n; i++) {
+    const fizz = i % 3 == 0, buzz = i % 5 == 0;
+    console.log(
+      fizz && buzz ? "FizzBuzz"
+      : fizz ? "Fizz"
+      : buzz ? "Buzz"
+      : i
+    );
+  }
 }
 ```
 
